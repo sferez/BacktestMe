@@ -13,8 +13,3 @@ The main.py backtest for several asset/timeframe/SMA values (Becareful it's take
 
 To simulate a precise asset / timeframe and SMA values just run the test.py with the correct parameter.
 The test.py include visualisation
-
-
-For AlgoVibes :
-If you have time may you check if my code is correct, like for the log return and positions calcul.
-Thx
